@@ -10,4 +10,4 @@ Ability to choose from two figures lists:
 
 Ability to choose from two difficulty levels:
 - Normal {equal chances}
-- Hardcore {computer has a _slight advantage_ over player
+- Hardcore {computer has a _slight advantage_ over player}
